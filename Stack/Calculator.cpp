@@ -36,7 +36,7 @@ int calculator(string s) {
             }
         }
         result += (number*sign);
-        return result;
+        return result;// ans hai 
 }
 
 int main() {
