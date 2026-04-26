@@ -20,7 +20,7 @@ Hi, I am **Sandeep Kumar Bharti** ✨
 
 🌟 GitHub: https://github.com/SandeepGoswami18  
 🌟 HackerRank: https://www.hackerrank.com/profile/sandeepgoswami92  
-🌟 LinkedIn: add-your-link-here  
+🌟 LinkedIn:https://www.linkedin.com/in/sandeep-kumar-bharti-72a264320/  
 
 💡 *Nothing is impossible when you believe in yourself* 💯💯
 
